@@ -29,7 +29,7 @@ To run this application locally, follow these steps:
 
 Clone this repository:
 
-git clone https://github.com/yourusername/task-management-app.git
+git clone https://github.com/pushkarcode/task-manger-app.git
 Navigate to the project folder:
 
 cd task-management-app
