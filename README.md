@@ -1,4 +1,4 @@
-# Welcome to Ofto Task Manager
+# Welcome to Task Manager App
 Greetings and welcome to Ofto Task Manager, your indispensable ally in conquering tasks and optimizing productivity! Meticulously crafted to streamline your life, Ofto Task Manager transcends the ordinary task manager – it's your personal productivity powerhouse. In today's dynamic world, maintaining order is paramount to achieving success. With Ofto Task Manager, bid farewell to chaos and embrace a structured approach to your daily pursuits. Whether you're a seasoned professional, a student juggling numerous deadlines, or someone aspiring to lead a more organized lifestyle, our application is tailored to cater to your unique requirements.
 
 ## Getting Started
@@ -29,8 +29,8 @@ To run this application locally, follow these steps:
 
 Clone this repository:
 
-git clone https://github.com/yourusername/task-management-app.git
-Navigate to the project folder:
+git clone https://github.com/pushkarcode/task-manger-app.git
+#Navigate to the project folder:
 
 cd task-management-app
 Install dependencies for the frontend and backend:
